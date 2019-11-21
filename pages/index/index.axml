@@ -1,0 +1,4 @@
+<view>
+    <button type="primary" size="" onTap="loginSystem"> 点击跳转 </button>
+
+</view>

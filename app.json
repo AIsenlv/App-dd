@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/apis/apis"
+  ],
+  "window": {
+    "defaultTitle": "王者荣耀快乐",
+    "titleBarColor": "#000000"
+  },
+  "debug": true
+}
